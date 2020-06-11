@@ -1,0 +1,24 @@
+FINAL PROJECT - PROGRAM 2                                                                        Group  6: Smit Patel
+200417          2104038                                                                                    Devansh Patel
+
+                                              COUNTS & CONTROL TOTALS REPORT
+                                              ------------------------------
+
+                  Sales      Layaway       S & L    Store #1    Store #2    Store #3    Store #4    Store #5    Store #12
+                  -----     --------       -----    --------    --------    --------    --------    --------    ---------
+Total Number         69           16          85          20          29          12           7          10           7
+Total Amount  19,619.01     3,219.85   22,838.86    3,299.87    5,199.77    1,789.91    1,489.95    1,389.42    9,669.94
+
+Payment Type:                 CA                  CR                  DB
+% of Transaction            25.88%              27.06%              47.06%
+
+                                                      RETURNS REPORT
+                                                      --------------
+
+                Return     Store #1    Store #2    Store #3    Store #4    Store #5    Store #12
+                ------     --------    --------    --------    --------    --------    ---------
+Total Number        15            4           5           0           2           1           3
+Total Amount    609.87       169.96      224.96        0.00      109.99       24.99       79.97
+
+
+Grand Total Amount : $22,228.99

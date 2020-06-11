@@ -1,0 +1,133 @@
+FINAL PROJECT - PROGRAM 3                            Group 6 : Smit Patel
+200417    1002816                                           Devansh Patel
+
+                               S&L Result                        PAGE : 1
+
+Trns     Trns      Payment  Store   Invoice     SKU                Tax
+Code     Amount    Type     Number  Number      Code               Amount
+----     ------    -------  ------  ------      ----               ------
+
+ S       $10.00    CA       01      AB-100001   SDFSKJ84MS09123     $1.30
+ S      $129.99    DB       01      BC-200002   247R20EHF02EF8E    $16.90
+ S       $89.99    CR       01      DE-300003   WI8HRW8H43FJSHF    $11.70
+ L       $49.99    DB       01      EA-400004   LFW8H88W84HFW4F     $6.50
+ S       $29.99    DB       01      CE-800007   WI8HRW8H43FJSHF     $3.90
+ S      $129.99    DB       01      BD-110009   247R20EHF02EF8E    $16.90
+ S       $89.99    CR       01      DA-120010   WI8HRW8H43FJSHF    $11.70
+ S       $10.00    CA       01      AC-130011   SDFSKJ84MS09123     $1.30
+ L     $1129.99    DB       01      CE-140012   247R20EHF02EF8E   $146.90
+ L       $10.00    CA       01      CE-160101   SDFSKJ84MS09123     $1.30
+ S      $129.99    DB       01      AB-170102   247R20EHF02EF8E    $16.90
+ S       $89.99    CR       01      CD-180103   WI8HRW8H43FJSHF    $11.70
+ L       $49.99    DB       01      EA-190104   LFW8H88W84HFW4F     $6.50
+ S       $20.00    CA       01      DE-210105   SDFSKJ84MS09123     $2.60
+ S      $149.99    CR       01      AD-220106   247R20EHF02EF8E    $19.50
+ S       $10.00    CA       01      BC-270111   SDFSKJ84MS09123     $1.30
+ S     $1129.99    DB       01      DE-280112   247R20EHF02EF8E   $146.90
+ S        $9.99    CR       01      AB-290113   WI8HRW8H43FJSHF     $1.30
+ L       $49.99    DB       02      CD-300014   LFW8H88W84HFW4F     $6.50
+ S      $149.99    CR       02      AC-330016   247R20EHF02EF8E    $19.50
+
+                               S&L Result                        PAGE : 2
+
+Trns     Trns      Payment  Store   Invoice     SKU                Tax
+Code     Amount    Type     Number  Number      Code               Amount
+----     ------    -------  ------  ------      ----               ------
+
+ S       $29.99    DB       02      AE-340017   WI8HRW8H43FJSHF     $3.90
+ S      $129.99    DB       02      CB-360019   247R20EHF02EF8E    $16.90
+ S       $89.99    CR       02      DC-370023   WI8HRW8H43FJSHF    $11.70
+ L       $49.99    DB       02      ED-380024   LFW8H88W84HFW4F     $6.50
+ S       $20.00    CA       02      AB-400025   SDFSKJ84MS09123     $2.60
+ S      $149.99    CR       02      AC-410026   247R20EHF02EF8E    $19.50
+ S       $29.99    DB       02      AD-420027   WI8HRW8H43FJSHF     $3.90
+ S       $10.00    CA       02      AE-430028   SDFSKJ84MS09123     $1.30
+ S      $129.99    DB       02      BA-440029   247R20EHF02EF8E    $16.90
+ S     $1129.99    DB       02      BE-470032   247R20EHF02EF8E   $146.90
+ L      $149.99    DB       02      CB-490034   LFW8H88W84HFW4F    $19.50
+ L       $49.99    DB       02      DC-540214   LFW8H88W84HFW4F     $6.50
+ S      $149.99    CR       02      EB-570216   247R20EHF02EF8E    $19.50
+ S       $10.00    CA       02      ED-590201   AADFSKJ84MS0913     $1.30
+ S       $89.99    CR       02      AC-610223   WI8HRW8H43FJSHF    $11.70
+ L       $49.99    DB       02      AD-620224   LFW8H88W84HFW4F     $6.50
+ S       $29.99    DB       02      EC-660227   WI8HRW8H43FJSHF     $3.90
+ S       $10.00    CA       02      ED-670228   SDFSKJ84MS09123     $1.30
+ S      $129.99    DB       02      BA-680229   247R20EHF02EF8E    $16.90
+ S       $89.99    CR       02      BD-690230   WI8HRW8H43FJSHF    $11.70
+
+                               S&L Result                        PAGE : 3
+
+Trns     Trns      Payment  Store   Invoice     SKU                Tax
+Code     Amount    Type     Number  Number      Code               Amount
+----     ------    -------  ------  ------      ----               ------
+
+ S       $10.00    CA       02      BE-700231   SDFSKJ84MS09123     $1.30
+ S     $1129.99    DB       02      BC-710232   247R20EHF02EF8E   $146.90
+ S        $9.99    CR       02      CA-720233   WI8HRW8H43FJSHF     $1.30
+ S       $29.99    DB       02      DB-760337   WI8HRW8H43FJSH2     $3.90
+ S       $10.00    CA       03      DC-770401   SDFSKJ84MS09123     $1.30
+ S      $129.99    DB       03      DE-780402   247R20EHF02EF8E    $16.90
+ S       $89.99    CR       03      EA-790403   WI8HRW8H43FJSHF    $11.70
+ L       $49.99    DB       03      EB-800404   LFW8H88W84HFW4F     $6.50
+ S       $20.00    CA       03      ED-820405   SDFSKJ84MS09123     $2.60
+ S      $149.99    CR       03      AB-830406   247R20EHF02EF8E    $19.50
+ S       $29.99    DB       03      AC-840407   WI8HRW8H43FJSHF     $3.90
+ S      $129.99    DB       03      AE-860409   247R20EHF02EF8E    $16.90
+ S       $10.00    CA       03      BD-880411   SDFSKJ84MS09123     $1.30
+ L     $1129.99    DB       03      DE-890412   247R20EHF02EF8E   $146.90
+ S      $129.99    DB       04      BD-100509   247R20EHF02EF8E    $16.90
+ S       $10.00    CA       04      CA-102511   SDFSKJ84MS09123     $1.30
+ S     $1129.99    DB       04      CD-103512   247R20EHF02EF8E   $146.90
+ S        $9.99    CR       04      CE-104513   WI8HRW8H43FJSHF     $1.30
+ L       $49.99    DB       04      DA-105514   LFW8H88W84HFW4F     $6.50
+ S      $149.99    CR       05      DE-108516   247R20EHF02EF8E    $19.50
+
+                               S&L Result                        PAGE : 4
+
+Trns     Trns      Payment  Store   Invoice     SKU                Tax
+Code     Amount    Type     Number  Number      Code               Amount
+----     ------    -------  ------  ------      ----               ------
+
+ S       $29.99    DB       05      ED-109517   WI8HRW8H43FJSHF     $3.90
+ S      $729.99    DB       05      EB-111519   247R20EHF02EF8E    $94.90
+ S       $89.99    CR       05      EA-112523   WI8HRW8H43FJSHF    $11.70
+ S       $20.00    CA       05      DB-115525   SDFSKJ84MS09123     $2.60
+ S      $149.99    CR       05      DA-116526   247R20EHF02EF8E    $19.50
+ S       $29.99    DB       05      CA-117527   WI8HRW8H43FJSHF     $3.90
+ S       $10.00    CA       05      CB-118528   SDFSKJ84MS09123     $1.30
+ S      $129.49    CA       05      CD-119529   247R20EHF02EF8E    $16.83
+ S       $89.99    CR       12      CE-120530   WI8HRW8H43FJSHF    $11.70
+ S     $8010.00    CA       12      DA-121631   SDFSKJ84MS09123  $1041.30
+ S     $1129.99    DB       12      DB-122632   247R20EHF02EF8E   $146.90
+ L      $149.99    DB       12      DE-124634   LFW8H88W84HFW4F    $19.50
+ L       $49.99    DB       12      AB-129614   LFW8H88W84HFW4F     $6.50
+ S      $149.99    CR       12      AE-132616   247R20EHF02EF8E    $19.50
+ S       $10.00    CA       02      BC-134601   AADFSKJ84MS0913     $1.30
+ L       $49.99    DB       05      CA-137624   LFW8H88W84HFW4F     $6.50
+ S       $20.00    CA       01      CD-139625   SDFSKJ84MS09123     $2.60
+ S      $149.99    CR       02      CE-140626   247R20EHF02EF8E    $19.50
+ S       $29.99    DB       03      DA-141627   WI8HRW8H43FJSHF     $3.90
+ S       $10.00    CA       04      DB-142628   SDFSKJ84MS09123     $1.30
+
+                               S&L Result                        PAGE : 5
+
+Trns     Trns      Payment  Store   Invoice     SKU                Tax
+Code     Amount    Type     Number  Number      Code               Amount
+----     ------    -------  ------  ------      ----               ------
+
+ S       $89.99    CR       12      DE-144630   WI8HRW8H43FJSHF    $11.70
+ S       $10.00    CA       01      EA-145631   SDFSKJ84MS09123     $1.30
+ S     $1129.99    DB       02      EB-146632   247R20EHF02EF8E   $146.90
+ S        $9.99    CR       03      EC-147633   WI8HRW8H43FJSHF     $1.30
+ L      $149.99    DB       04      ED-148634   LFW8H88W84HFW4F    $19.50
+
+Total number of S&L records    :   85
+Total number of S   records    :   69
+Total number of L   records    :   16
+
+Payment Types Percentage:  CASH: 25.88%    CREDIT: 27.06%    DEBIT:47.06%
+
+Total tax owing                :   $2,969.13
+
+Store num with highest S&L transaction Amount -  12
+Store num with lowest S&L  transaction Amount -   4

@@ -1,0 +1,29 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <ProjectGuid>{1F804DC7-8D1C-4373-B428-16271E681DF6}</ProjectGuid>
+    <OutputName>Program_4</OutputName>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Program_4</RootNamespace>
+    <MFProjectType>Native</MFProjectType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <OutputPath>.\bin\x86\Debug\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <ManagedCode>False</ManagedCode>
+    <DebugSymbols>True</DebugSymbols>
+    <MaxError>100</MaxError>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>.\bin\x86\Release\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <ManagedCode>False</ManagedCode>
+    <DebugSymbols>False</DebugSymbols>
+    <MaxError>100</MaxError>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program4.cbl" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets" />
+</Project>

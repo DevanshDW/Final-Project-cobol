@@ -1,0 +1,8 @@
+D:\Study\SEMESTER_6\MAFD\final_project\FINAL_PROJECT\Program_1\bin\x86\Debug\Project_1.exe
+D:\Study\SEMESTER_6\MAFD\final_project\FINAL_PROJECT\Program_1\bin\x86\Debug\Program_1.idy
+D:\Study\SEMESTER_6\MAFD\final_project\FINAL_PROJECT\Program_1\obj\x86\Debug\Program_1.idy
+D:\Study\SEMESTER_6\MAFD\final_project\FINAL_PROJECT\Program_1\obj\x86\Debug\Project_1.exe
+D:\STUDY\SEM 4\MAFD\final_project\cobol_project\Program_1\bin\x86\Debug\Project_1.exe
+D:\STUDY\SEM 4\MAFD\final_project\cobol_project\Program_1\bin\x86\Debug\Program_1.idy
+D:\STUDY\SEM 4\MAFD\final_project\cobol_project\Program_1\obj\x86\Debug\Program_1.idy
+D:\STUDY\SEM 4\MAFD\final_project\cobol_project\Program_1\obj\x86\Debug\Project_1.exe

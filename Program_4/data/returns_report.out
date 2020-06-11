@@ -1,0 +1,38 @@
+FINAL PROJECT - PROGRAM 4                            Group 6 : Smit Patel
+200417    1270513                                           Devansh Patel
+
+                           Returns Report                        PAGE:  1
+
+Trans   Trans      Payment  Store   Invoice     SKU                Tax
+Code    Amount     Type     Number  Number      Code               Amount
+----    ------     ----     ------  ------      ----               ------
+
+  R     24.99$     CR       01      BD-500102   FLW8H4FW8H4FWF4     3.25$
+  R     24.99$     CR       01      BC-200102   FLW8H4FW8H4FWF4     3.25$
+  R     29.99$     DB       01      EB-230107   WI8HRW8H43FJSHF     3.90$
+  R     89.99$     CR       01      EA-260110   WI8HRW8H43FJSHF    11.70$
+  R     24.99$     CR       02      AE-390102   FLW8H4FW8H4FWF4     3.25$
+  R     29.99$     CA       02      CE-510035   SDFSKJ84MS09123     3.90$
+  R     20.00$     CA       02      EA-560215   SDFSKJ84MS09123     2.60$
+  R     24.99$     CR       02      AE-630202   FLW8H4FW8H4FWF4     3.25$
+  R    124.99$     CR       02      CD-740322   F4WO8JFO8W4JFW8    16.25$
+  R     89.99$     CR       04      BE-101510   WI8HRW8H43FJSHF    11.70$
+  R     20.00$     CA       04      DC-107515   SDFSKJ84MS09123     2.60$
+  R     24.99$     CR       05      DC-114502   FLW8H4FW8H4FWF4     3.25$
+  R     29.99$     CA       12      EC-126635   SDFSKJ84MS09123     3.90$
+  R     24.99$     CR       12      AC-130612   ASEDRFT987KIMYT     3.25$
+  R     24.99$     CR       12      CB-138602   FLW8H4FW8H4FWF4     3.25$
+
+Total number of R records    :     15
+
+Total transaction Amount     :      $609.87
+
+  Store #1    Store #2    Store #3    Store #4    Store #5    Store #12
+  169.96$     224.96$       0.00$     109.99$      24.99$      79.97$
+
+Payment Types Percentage: CASH-   26.67%   CREDIT- 66.67%   DEBIT-  6.67%
+
+Total tax owing              :      $79.30
+
+Store number with highest return transaction -  2
+Store number with lowest  return transaction - 12

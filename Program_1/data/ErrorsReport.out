@@ -1,0 +1,176 @@
+Program 1 - Error Report                        Smit Patel
+200417           1345410                     Devansh Patel
+
+First two characters must be A, B, C, D or E
+SKU code cannot be empty.
+Record  :006          S0002000CA01XA-600005
+
+----------------------------------------------------------First two characters cannot be same
+Record  :007          S0014999CR01AA-700006247R20EHF02EF8E
+
+----------------------------------------------------------Invoice number should be between 900000 & 100000
+Record  :009          S0001000CA01EB-900008SDFSKJ84MS09123
+
+----------------------------------------------------------Invoice number must be numeric
+Record  :014          S0000999CR01EB-1500A3WI8HRW8H43FJSHF
+
+----------------------------------------------------------First two characters cannot be same
+Record  :023          S0001000CA01AA-240108SDFSKJ84MS09123
+
+----------------------------------------------------------First two characters must be A, B, C, D or E
+Record  :024          S0012999DB01DZ-250109247R20EHF02EF8E
+
+----------------------------------------------------------SKU code cannot be empty.
+Record  :030          R0002499CR02EB-310212
+
+----------------------------------------------------------First two characters cannot be same
+Record  :031          R0002000CA02BB-320015SDFSKJ84MS09123
+
+----------------------------------------------------------Transaction amount should be numeric
+Payment type must be either 'CA','CR' or 'DB'
+Record  :034          S000100XCW02BA-350001AADFSKJ84MS0913
+
+----------------------------------------------------------Invoice number must be numeric
+Invoice number should be between 900000 & 100000
+Record  :044          S0008999CR02BC-0S0030WI8HRW8H43FJSHF
+
+----------------------------------------------------------First two characters cannot be same
+Record  :045          S0001000CA02BB-460031SDFSKJ84MS09123
+
+----------------------------------------------------------Transaction code is invalid.S,R,L only
+Transaction amount should be numeric
+Record  :047          X000099XCR02CA-480033WI8HRW8H43FJSHF
+
+----------------------------------------------------------SKU code cannot be empty.
+Record  :049          R0012499CR02CD-500122
+
+----------------------------------------------------------Transaction code is invalid.S,R,L only
+Record  :051          X0014999CR02DA-520036247R20EHF02EF8E
+
+----------------------------------------------------------Payment type must be either 'CA','CR' or 'DB'
+Record  :052          S0002999DW02DB-530037WI8HRW8H43FJSH2
+
+----------------------------------------------------------SKU code cannot be empty.
+Record  :054          R0002499CR02DE-550212
+
+----------------------------------------------------------Payment type must be either 'CA','CR' or 'DB'
+Record  :057          S0002999DW02EC-580217WI8HRW8H43FJSHF
+
+----------------------------------------------------------Transaction code is invalid.S,R,L only
+Record  :059          X0012999DB02AB-600219247R20EHF02EF8E
+
+----------------------------------------------------------First two characters must be A, B, C, D or E
+Record  :063          S0002000CA02ET-640225SDFSKJ84MS09123
+
+----------------------------------------------------------First two characters cannot be same
+Record  :064          S0014999CR02EE-650226247R20EHF02EF8E
+
+----------------------------------------------------------First two characters cannot be same
+Record  :072          L0014999DB12CC-730234LFW8H88W84HFW4F
+
+----------------------------------------------------------Payment type must be either 'CA','CR' or 'DB'
+Record  :074          R0002999CW02CE-750335SDFSKJ84MS09123
+
+----------------------------------------------------------Transaction code is invalid.S,R,L only
+Record  :075          C0014999CR02DA-760336247R20EHF02EF8E
+
+----------------------------------------------------------Store number should be from 01 to 05 or 12
+Record  :081          R0002499CR13EC-810402FLW8H4FW8H4FWF4
+
+----------------------------------------------------------Store number should be from 01 to 05 or 12
+Record  :085          S0001000CA13AD-850408SDFSKJ84MS09123
+
+----------------------------------------------------------First two characters cannot be same
+Record  :087          S0008999CR03AA-870410WI8HRW8H43FJSHF
+
+----------------------------------------------------------Invoice number should be between 900000 & 100000
+Record  :090          S0000999CR03EA-900413WI8HRW8H43FJSHF
+
+----------------------------------------------------------First two characters must be A, B, C, D or E
+Invoice number should be between 900000 & 100000
+Record  :091          L0001000CA03GB-910401SDFSKJ84MS09123
+
+----------------------------------------------------------First two characters cannot be same
+Invoice number should be between 900000 & 100000
+Record  :092          S0012999DB03CC-920402247R20EHF02EF8E
+
+----------------------------------------------------------Invoice number should be between 900000 & 100000
+Record  :093          S0008999CR03ED-930403WI8HRW8H43FJSHF
+
+----------------------------------------------------------Invoice number should be between 900000 & 100000
+Record  :094          L0004999DB03AB-940404LFW8H88W84HFW4F
+
+----------------------------------------------------------Invoice number should be between 900000 & 100000
+Record  :095          R0002499CR03AC-950402FLW8H4FW8H4FWF4
+
+----------------------------------------------------------Invoice number should be between 900000 & 100000
+Record  :096          S0002000CA04AD-960405SDFSKJ84MS09123
+
+----------------------------------------------------------Transaction amount should be numeric
+Store number should be from 01 to 05 or 12
+Invoice number should be between 900000 & 100000
+Record  :097          S001X999CR17AE-970406247R20EHF02EF8E
+
+----------------------------------------------------------Invoice number must be numeric
+Invoice number should be between 900000 & 100000
+Record  :098          R0002999DB04BA-98S407WI8HRW8H43FJSHF
+
+----------------------------------------------------------First two characters cannot be same
+Invoice number must be numeric
+Invoice number should be between 900000 & 100000
+Record  :099          S0001000CA04CC-99S508SDFSKJ84MS09123
+
+----------------------------------------------------------SKU code cannot be empty.
+Record  :106          R0002499CR04DB-106512
+
+----------------------------------------------------------Transaction amount should be numeric
+Payment type must be either 'CA','CR' or 'DB'
+Record  :110          S007100XCW05EC-110501AADFSKJ84MS0913
+
+----------------------------------------------------------First two characters cannot be same
+Record  :113          L0004999DB05DD-113524LFW8H88W84HFW4F
+
+----------------------------------------------------------Transaction amount should be numeric
+Record  :123          S000099XCR12DC-123633WI8HRW8H43FJSHF
+
+----------------------------------------------------------Payment type must be either 'CA','CR' or 'DB'
+Store number should be from 01 to 05 or 12
+First two characters cannot be same
+SKU code cannot be empty.
+Record  :125          R0012499CX14EE-125722
+
+----------------------------------------------------------Transaction code is invalid.S,R,L only
+Record  :127          X0014999CR12EB-127636247R20EHF02EF8E
+
+----------------------------------------------------------Payment type must be either 'CA','CR' or 'DB'
+Record  :128          S0002999DW12EA-128637WI8HRW8H43FJSH2
+
+----------------------------------------------------------Invoice number must be numeric
+Record  :131          R0002400CA12AD-131S15SDFSKJ84MS09123
+
+----------------------------------------------------------Payment type must be either 'CA','CR' or 'DB'
+Record  :133          S0002999DW01BA-133617WI8HRW8H43FJSHF
+
+----------------------------------------------------------Transaction code is invalid.S,R,L only
+Record  :135          W0012999DB03BD-135619247R20EHF02EF8E
+
+----------------------------------------------------------First two characters cannot be same
+Record  :136          S0008999CR04BB-136623WI8HRW8H43FJSHF
+
+----------------------------------------------------------First two characters cannot be same
+Record  :143          S0012999DB05DD-143629247R20EHF02EF8E
+
+----------------------------------------------------------Invoice number must be numeric
+Record  :149          R0000499CR05AC-1496N2F4WO8JFO8W4JFW8
+
+----------------------------------------------------------Payment type must be either 'CA','CR' or 'DB'
+Record  :150          R0002999CW12AD-150635SDFSKJ84MS09123
+
+----------------------------------------------------------Transaction code is invalid.S,R,L only
+Store number should be from 01 to 05 or 12
+Record  :151          X0014999CR71AE-151636247R20EHF02EF8E
+
+----------------------------------------------------------Store number should be from 01 to 05 or 12
+Record  :152          S0002999DB08AB-152637WI8HRW8H43FJSH2
+
+----------------------------------------------------------Valid records:  100    Invalid records:  52

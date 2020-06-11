@@ -1,0 +1,4 @@
+D:\Study\SEMESTER_6\MAFD\final_project\FINAL_PROJECT\Program_3\bin\x86\Debug\Program_3.exe
+D:\Study\SEMESTER_6\MAFD\final_project\FINAL_PROJECT\Program_3\bin\x86\Debug\Program3.idy
+D:\Study\SEMESTER_6\MAFD\final_project\FINAL_PROJECT\Program_3\obj\x86\Debug\Program3.idy
+D:\Study\SEMESTER_6\MAFD\final_project\FINAL_PROJECT\Program_3\obj\x86\Debug\Program_3.exe
